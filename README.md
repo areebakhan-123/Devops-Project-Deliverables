@@ -25,3 +25,5 @@ Every time code is pushed to the `main` branch, a new Docker image is built and 
 - **Initial Release**: Static website files added.
 - **Update**: Added Dockerfile for containerization.
 - **Current Update**: Configured GitHub Actions for automated CI/CD pipeline.
+
+- Tested by Areeba Khan
